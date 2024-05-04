@@ -567,7 +567,7 @@ if ($conn->connect_error) {
 
     echo "<a href='vehicle_insert.php'><h4><b><right>| ADD NEW VEHICLE DETAILS |</right></b></h4></a>";
 
-    $conn->close();
+    
 }
 ?>
                 
